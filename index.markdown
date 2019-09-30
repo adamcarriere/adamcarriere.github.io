@@ -18,7 +18,7 @@ I am currently working on a project called [Secret of the Source Code](https://s
 
 ## Contact Me
 
-- Email: adam.carriere@outlook.com
+- Email: [adam.carriere@outlook.com](mailto:adam.carriere@outlook.com)
 - GitHub: [adamcarriere](https://github.com/adamcarriere)
 - Twitter: [@adamazingly](https://twitter.com/adamazingly)
 
