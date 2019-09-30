@@ -1,1 +1,0 @@
-# adamcarriere.github.io
