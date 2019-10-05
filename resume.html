@@ -1,0 +1,28 @@
+---
+layout: default
+title: Resume
+permalink: /resume/
+---
+<div>
+	<h1>Adam Carriere</h1>
+	<div>Game developer 🎮, game designer 🎲, web developer 💻, bagpiper 🎶, coffee drinker ☕.</div>
+	<div>
+		Experienced Web and Games Developer with a demonstrated
+		history of working in web and mobile applications. Skills include
+		mobile and iOS app development, webapp and SaaS development,
+		React.js, Vue.js, JavaScript, TypeScript, SCSS, CSS3, HTML5,
+		npm, node.js, Unity3D, in addition to Game Development and Game
+		Design. Strong engineering professional with a Ontario College
+		Diploma focused in Computer Systems Technician from Mohawk College.
+	</div>
+</div>
+
+<h2>Experience</h2>
+
+{% for job in site.categories.jobs %}
+<h3>{{job.job-title}}</h3>
+<h4>{{job.company}}</h4>
+<div>
+	{{job.content}}
+</div>
+{% endfor %}
