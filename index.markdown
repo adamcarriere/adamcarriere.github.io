@@ -19,34 +19,35 @@ Montreal, QC, Canada
 - Developing back-end components for interactive media systems using Node.js, Python, MQTT, websockets
 - Developing games and applying technical artist skills using Unreal Engine, Unity
 - Developing proofs of concepts and rapid prototyping
-- Managing development teams as head of department to successfully create and launch projects in a wide variety of contexts including web-based games, web applications, and large-scale interactive media systems.
+- Managing development teams as head of department to successfully create and launch projects in a wide variety of contexts; experienced in JIRA, Trello, Asana
 - Passionate for creating interactive experiences that surprise and delight users.
+- Curious about how to leverage AI frameworks as a productivity tool to enable us to move beyond repetitive tasks to spend more time tackling exciting and fresh challenges
 
 ## EXPERIENCE
 
 ### Float4 - Montreal, QC
 _Lead Interactive Developer (Oct 2022 - Present)_
 
-- Leads the interactive development team to successfully produce large scale interactive media systems.
+- Leads the interactive development team to successfully produce large scale interactive media systems with adapted Agile methods to enhance media based project workflows
+- Manage, implement, and improve processes, standards, and tools for the team leveraging Asana, Perforce, GitHub, and modern TypeScript/JavaScript/Node.js frameworks
 - Collaborates with stakeholders to develop production approach, plan, and coordinate workload.
 - Develops project implementation strategy, assesses risks and feasibility, and provides input on software platforms to use.
 - Contributes to projects by developing prototypes, writing clean code, and performing quality assurance testing.
-- Manage, implement, and improve processes, standards, and tools for the team.
 
 ### Thinkwell Group Montreal - Montreal, QC
 _Senior Developer (Feb 2022 - Sep 2022)_  
 _Interactive Developer (Dec 2019 - Feb 2022)_
 
 - Contributed as a system architect, full-stack developer, and technical artist for the Warner Bros. Studio Tour, Hollywood
-- Re-engineered a touch based kiosk system to a no-touch kiosk system in response to COVID-19 without changing the already installed hardware; the hardware was in California while I was in Montreal, Canada.
-- Worked on a wide array of technical subjects, including technical art, web development, and technology consulting for interactive projects
-implemented interactions, designed environments, and created animations and materials in real-time rendering solutions such as Unreal Engine and Unity.
+- Re-engineered a touch based kiosk system to a no-touch kiosk system using Vue.js and Node.js in response to COVID-19 without changing the already installed hardware; the hardware was in California while I was in Montreal, Canada.
+- Worked on a wide array of technical subjects, including technical animation (Unreal Engine), web development (Vue.js, Node.js), and technology consulting for interactive projects
+- Implemented interactions, designed environments, and created animations and materials in real-time rendering solutions such as Unreal Engine and Unity.
 
 
 ### Property Meld - Rapid City, SD (Remote)
 _Software Engineer (May 2018 - Jun 2019)_
 
-- Achieved $1 million in annual revenue and acquired maintenance over 100k units by mid-2018 with only three developers.
+- As one of the first three developers, helped the company reach $1,000,000 in annual revenue
 - Developed cross-browser responsive HTML5 user interfaces based on specifications.
 - Coordinated with designers and rebuilt the web app UI from the ground up.
 - Focused on developing responsive and mobile-ready layouts and components with an emphasis on scalability and reusability.
