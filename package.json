@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxt/content": "^2.5.2",
+    "@spectrum-css/button": "^9.1.2",
+    "@spectrum-css/page": "^5.0.21",
+    "@spectrum-css/vars": "^9.0.1",
+    "nuxt": "^3.4.1",
+    "sass": "^1.62.0",
+    "sass-loader": "10"
+  }
+}
