@@ -1,7 +1,17 @@
 @use './vars';
 
+* {
+    box-sizing: border-box;
+}
+
 body {
-    padding: vars.$gutter;
-    font-family: 'Courier New', Courier, monospace;
+    padding: 0;
+    @media screen and (min-width: 801px) {
+        padding: vars.$gutter;
+    }
+
+    font-family: 'Courier New',
+    Courier,
+    monospace;
     background-color: yellow;
 }
