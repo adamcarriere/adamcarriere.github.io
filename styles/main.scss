@@ -1,0 +1,7 @@
+@use './vars';
+
+body {
+    padding: vars.$gutter;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: yellow;
+}

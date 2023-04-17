@@ -1,20 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
 title: Resume
 ---
+
 # Adam Carriere - Software Developer
 Montreal, QC, Canada
 
 ## Contact Me
 
-- Email: [adam.carriere@outlook.com](mailto:adam.carriere@outlook.com)
-- GitHub: [adamcarriere](https://github.com/adamcarriere)
-- LinkedIn: [Adam Carriere](https://www.linkedin.com/in/adam-carriere-122b8271/)
+*Email*: [adam.carriere@outlook.com](mailto:adam.carriere@outlook.com)
+
+*GitHub*: [adamcarriere](https://github.com/adamcarriere)
+
+*LinkedIn*: [Adam Carriere](https://www.linkedin.com/in/adam-carriere-122b8271/)
 
 ## SKILLS
+
 - Typescript, JavaScript, HTML, CSS/SCSS/SASS, Python, C#
 - Developing responsive UIs using Vue.js and React.js, as well as tools like Pixi.js, Storybook.js, for web applications, games, and interactive media experiences.
 - Developing back-end components for interactive media systems using Node.js, Python, MQTT, websockets

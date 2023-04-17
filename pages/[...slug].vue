@@ -1,11 +1,7 @@
 <template>
   <main>
-    <ContentDoc />
+    <ContentCard>
+      <ContentDoc />
+    </ContentCard>
   </main>
 </template>
-
-<script>
-useHead({
-  htmlAttrs: { class: "spectrum spectrum--medium spectrum--light" }
-})
-</script>
