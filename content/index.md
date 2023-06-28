@@ -27,7 +27,7 @@ Montreal, QC, Canada
 ## EXPERIENCE
 
 ### Float4 - Montreal, QC
-_Lead Interactive Developer (Oct 2022 - Present)_
+_Lead Interactive Developer (Oct 2022 - July 2023)_
 
 - Leads the interactive development team to successfully produce large scale interactive media systems with adapted Agile methods to enhance media based project workflows
 - Manage, implement, and improve processes, standards, and tools for the team leveraging Asana, Perforce, GitHub, and modern TypeScript/JavaScript/Node.js frameworks
